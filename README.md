@@ -318,7 +318,7 @@ scss/
 
 ├─ components/
 
-├─ layout/
+├─ modules/
 
 ├─ pages/
 
